@@ -1,0 +1,12 @@
+func f(int a, int b) {
+if (a > b) {
+print(a+b);
+} else {
+	print(10000);
+}
+};
+func s(int a, int b){
+print(a-b);
+};
+f(10, 20);
+s(10, 20);
